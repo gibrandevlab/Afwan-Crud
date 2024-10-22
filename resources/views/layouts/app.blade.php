@@ -29,7 +29,7 @@
                         </clipPath>
                     </defs>
                 </svg>
-                <span class="self-center text-lg font-semibold whitespace-nowrap">Fakhri</span>
+                <span class="self-center text-lg font-semibold whitespace-nowrap">Afwan</span>
             </a>
             <button data-collapse-toggle="mobile-menu" type="button"
                 class="md:hidden ml-3 text-gray-400 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-blue-300 rounded-lg inline-flex items-center justify-center"
